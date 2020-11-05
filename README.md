@@ -31,6 +31,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 
 [![Namra's github stats](https://github-readme-stats.vercel.app/api?username=NamraOnPC&theme=graywhite&show_icons=true&count_private=true)](https://github.com/NamraOnPC)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NamraOnPC&langs_count=5)](https://github.com/NamraOnPC)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NamraOnPC&langs_count=5&layout=compact)](https://github.com/NamraOnPC)
 
 ![visits](https://visitor-badge.laobi.icu/badge?page_id=NamraOnPC.visitor-badge)
